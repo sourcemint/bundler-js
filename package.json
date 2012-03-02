@@ -9,5 +9,8 @@
         "wrench": "1.x",
         "sourcemint-platform-nodejs": "0.x",
         "sourcemint-sdk-requirejs": "0.x"
-	}
+	},
+    "scripts": {
+       "test": "node tests/all"
+    }
 }
